@@ -3,13 +3,12 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <parent>
-    <artifactId>xf-base</artifactId>
+    <artifactId>base</artifactId>
     <groupId>com.xf</groupId>
-    <version>1.0.0</version>
+    <version>1.0-SNAPSHOT</version>
   </parent>
-  <groupId>com.xf</groupId>
+  <groupId>com.xf.base</groupId>
   <artifactId>common</artifactId>
-  <version>1.0.0</version>
   <name>common</name>
   <url>http://maven.apache.org</url>
   <properties>
